@@ -1,1 +1,3 @@
 # digital-writing-folio
+<p>AUTHOR BIO</p>
+Mallory Mills is an Australian writer born in Melbourne, Victoria. She is currently undergoing her third year of the Creative Writing bachelor course at RMIT, and has previously published with Bowen Street Press. She writes fiction and poetry, with an occasional foray into creative non-fiction. Mallory likes to utilise environmental tools, such as LifeAt, to assist in architecting the mood of her pieces. She enjoys romance and fantasy stories that incorporate read-world elements into their stories, and hopes to one day write such a series herself. She currently lives at home with her two cats, Chevvy and Willow.
