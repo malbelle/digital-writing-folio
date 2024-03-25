@@ -18,5 +18,5 @@ These elements play an integral role in the construction of these works, as they
 Digital literature can utilise time-based techniques that ensure readers are given information when intended, guiding the experience in a way that would be impossible on paper.</p>
 <p><b>How is electronic literature different from print literature?</b>
 Print literature provides a reading experience that is very direct and instant, allowing the reader to take in the entirety of the text's layout in a single glance. It is able to convey only what is on the page, with no element of spontaneity.</p>
-<p><<b>What are the qualities of the works we might consider as qualities of electronic literature?</b>
+<p><b>What are the qualities of the works we might consider as qualities of electronic literature?</b>
 Imagery, timing and sound are qualities that are almost exclusive to digital literature, allowing for an experience that goes beyond ink and paper. This allows for text to take forms and convey meaning that engages senses other than mere sight.
