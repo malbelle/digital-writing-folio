@@ -21,12 +21,12 @@ Print literature provides a reading experience that is very direct and instant, 
 <p><b>What are the qualities of the works we might consider as qualities of electronic literature?</b>
 Imagery, timing and sound are qualities that are almost exclusive to digital literature, allowing for an experience that goes beyond ink and paper. This allows for text to take forms and convey meaning that engages senses other than mere sight.
 <p>LINK to the world's best poem:
-https://glitch.com/edit/#!/iodized-olivine-magazine?path=index.html%3A64%3A15
-<b>How is hypertext fiction different from fiction</b>
-Hypertext fiction is a form of digital fiction. It allows for non-linearity through the use of hypertext links and encourages reader interaction. Regular fiction, however, does not typically employ the use of links and is typically more traditional in its use of linear storytelling. Hypertext also incorporates connections to other documents, while fiction does not.
-<b>How is it different from games?</b>
-Hypertext fiction does not encourage the reader to make decisions or 'play,' unlike games. Rather, hypertext fiction is about exploration. It encourages readers to plumb the depths of the piece, and offers only a handful of limited options.
-<b>How do you plan fiction?</b>
-I like to have an outline, like a chapter or scene summary. I tend to keep it brief, however, as I find that over-planning my work lessens my desire to actually produce it. I value a bit of spontaenity in my work.
-<b>How could you plan hypertext fiction?</b>
-You could plan the documents connected to the initial one, and you could list the differing options and subsequent choices.
+https://glitch.com/edit/#!/iodized-olivine-magazine?path=index.html%3A64%3A15</p>
+<p><b>How is hypertext fiction different from fiction</b>
+Hypertext fiction is a form of digital fiction. It allows for non-linearity through the use of hypertext links and encourages reader interaction. Regular fiction, however, does not typically employ the use of links and is typically more traditional in its use of linear storytelling. Hypertext also incorporates connections to other documents, while fiction does not.</p>
+<p><b>How is it different from games?</b>
+Hypertext fiction does not encourage the reader to make decisions or 'play,' unlike games. Rather, hypertext fiction is about exploration. It encourages readers to plumb the depths of the piece, and offers only a handful of limited options.</p>
+<p><b>How do you plan fiction?</b>
+I like to have an outline, like a chapter or scene summary. I tend to keep it brief, however, as I find that over-planning my work lessens my desire to actually produce it. I value a bit of spontaenity in my work.</p>
+<p><b>How could you plan hypertext fiction?</b>
+You could plan the documents connected to the initial one, and you could list the differing options and subsequent choices.</p>
