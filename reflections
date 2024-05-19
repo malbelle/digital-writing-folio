@@ -1,11 +1,77 @@
-28/04/24
-Link to current prototype:
-file:///C:/Users/Malor/OneDrive/Documents/RMITEA/Year%203/Digital%20Writing/Customer-Service-Simulator/index.html
-Reflection:
-13/05/2024
-This week I worked on my second customer and constructed a dialogue tree. 
-I had a vague idea of where I wanted to go with it, but, as I hadn’t planned anything prior, I found the task daunting and struggled to complete this step of my work. 
-It became quickly apparent to me that this approach would not allow for effective story-telling, and would likely lessen the quality of the two remaining customer interactions. 
-As such, I’ve decided to sketch out a script beforehand and lay out the roadmaps to each line of dialogue in a word doc; I believe this will improve both my productivity and enjoyment.
+The following observations have been recorded in a word document over the course of the semester:
+
+WEEK 1
+I'll admit it now upfront: I don't care much for coding. No, scratch that: I'm rather terrified of it. All those symbols and numbers might
+as well be hierogylphics for all that I can discern them, and everytime I've been given leave to try in the past, the result has been a throbbing headache and
+a twisting stomach. That same sensation plagued me this week as I sat down for my first class, dread sitting heavy in my stomach right alongside the two lukewarm
+weetbix I'd had for breakfast. This feeling only intensified when my tutor showed the class examples of other people's creations: timed poems, animated sprites,
+blinking text...it all seems so terribly beyond reach, and I can't quite shake the feeling that I'm in over my head. But I selected this class to gain useful industry
+skills, and if I want to work in the digital age, I suppose I have to learn to be adaptable. We looked at three pieces this week: 'Taroko Gorge', 'The Gathering Cloud', and 'Shade.'
+I'll confess, I didn't care much for any of them. I gave up on 'Shade' almost immeadiately, frustrated by my lack of progress, and I found 'The Gathering Cloud' to be
+overstimulating and too-experimental for my taste. 'Taroko Gorge' was impressive with its use of timed poetry, but I didn't care much for the poems themselves,
+and I struggled to follow along when my tutor broke down the inner-mechanics of it. With this in mind, I don't think I'll be attempting any of these for my own project.
+
+WEEK 2
+No class.
+
+WEEK 3
+This week, we prepared for our upcoming presentations on a chosen digital work. I'd taken the time last week to select my favourities from the archives given,
+and I've found I tend to favour the more simplisitic pieces. No surprises there, I suppose. I also prefer the works that have clear narrative intention, much like
+a traditionally written piece now. Needless to say, I'm not very fond of the more experimental, abstract pieces. As such, I've chosen Anna Antrophy's 'Hunt for
+the Gay Planet,' a choose-your-own-adventure game written from the second-person perspective. Witty, satiricial and relatively easy to follow, I was drawn to this
+piece by its snappy title, and the relevance it holds in my own life. Additionally, I found the idea of a choose-your-own-adventure format very appealing, and
+and I'm already beginning to think up ways I can utilise it to create my own narrative. This week, we also had a go at formulating our own poems using a round-robin
+of techniques, such as Daidaism and Lipograms. We were split into groups, and each group was able to experience two of the four offered techniques, which made
+for some truly bewildering results. My own group attempted the N+7 and Lipogram techniques, neither of which I enjoyed very much. I found each technique
+frustrating and overly elaborate, while the resulting poems were frustraingly nonsensical (if occasionally amusing.) To be completely honest, the entire
+thing felt like a big waste of time, and I resolved to avoid employing these techniques in the future, should the opportunity arise.
+
+WEEK 7
+This week I had to address what I've been attempting to ignore since the beginning of the semester: the task of conceptualising my own digital piece.
+From as young as grade three, it's been evident to me that I possess very lack for all things STEM; to say coding intimidates me would be a gross
+understatement. To put it plainly, I've spent much of my life attempting to avoid anything that would require even a modicum of coding knowledge. During
+digital technology classes in highschool, I'd spend class making the sprites look as unique as possible, or else otherwise draw surrepitiously in the margins
+everytime my teacher's back was turned. Honestly, I've never had any interest in coding, and although I've assured that little will be required of me in this area,
+I still find the notion of coding my own piece to be terribly daunting. I've already vetoed several intriguing narrative avenues out of the sheer certainty
+that I would be incapable of incorporating my ideas into a digital setting. The only thing I know for certain is that I wish to use Twine, as it is the program
+I am least intimidated by. What's more, I've even managed to change the font type and add a (grossly oversized) image into  previous Twine experiment, and so
+I'm tentatively hopeful that with the right idea, I can produce an idea both entertaining and realistic.
+
+WEEK 8
+I’ve come up with an idea for my piece, which I'm titling: Customer Service Simulator. It will function much as 'Hunt for the Gay Planet' did,
+in a choose-your-own-adventure type format. I've drawn inspiration from dating sims such as 'Dream Daddy,'
+and will be using dialogue trees to guide players through interactions with four archetypical customers. My intention is to create something
+both absurdly amusing and socially relevant, drawing on today's cost of living crisis and the universal impodence of real-life customers.
+I've already begun production on my piece, utilising the prototype as the basis of my code. Primarily, much of the process follows that of a 
+creative narrative, as each text box requires at least 3-4 lines of description and dialogue. I’ve been thoroughly enjoying this aspect of my project, 
+as character interactions have always been one of my favourite things to write - and in this way, I’ve managed to incorporate a level of comfort into 
+what is otherwise a daunting task. Thankfully, the coding itself is relatively sparse, with the only real challenge involving the inclusion of 
+my hand-drawn images. Despite copying the code exactly from my tutor’s notes, I can’t seem to get my drawings to appear; this is worrying, 
+as the artwork is an integral piece of the work. I will endeavour to try again when I get a chance.
+
+WEEK 9
+I have successfully begun incorporating images into my work! After hastily emailing my teacher in a panic, I discovered I'd simply been launching Twine
+from a browser rather than from my github file - which I'd also forgotten to keep updating intimittently. Furthermore, I was ignorant to the importance of
+uploading my pictures online before attempting to use them. Ordinarily, this would not be an issue, as any photo found on the internet would already be 'online.'
+But because my images are hand-drawn, I've had to indivudally upload each picture to Flickr and then redownload them using Flickr's software. This was an unforeseen
+obstacle, but one that, with a little extra time, is easily overcome. Another challenge has been the sheer magnitiude of images I've had to keep track of. As so many
+of my pictures are almost identical, save for a change in expression or pose, it's been a struggle to ensure each image ends up in the correct box; more than once
+I've had a customer openly beaming while supposedly chewing the player out. As such, I've taken to labelling each image in correspondence to their emotion and
+customer number, ie. 'customer2angry.' Still, this system has made it hard to differentiate the images from each other, but it's the only one I can presently think of.
+In terms of progress, I've completed all interactions pertaining to the first customer and am preparing to tackle the second. So far, I've experienced no other coding issues 
+- which I undoubtedly have Twine, in all its straightforward glory, to thank for. This is also, admittedly, by own design; outside of the occasional italicised word,
+I've avoided attmepting anything beyond the default.
+
+WEEK 10
+This week I worked on my second customer and third customers, constructing their dialogue trees and formulating each pathway. Initially, I struggled to complete
+customer two's pathway - as, while I had a vague idea of where I wanted it to go, I hadn’t planned anything concrete. As such, I found myself unable to decide
+on the outcome of each dialogue option, and so my pice remained in limbo for most of this week. By the time I finished customer two, I was so exhausted
+and unwilling to repeat the process that I realised a change of strategy was in order. It became quickly apparent to me that this approach would not allow for effective story-telling, 
+and would likely lessen the quality of the remaining interactions. As such, I decided to sketch out a script beforehand and lay out the roadmaps to each line of dialogue in a word doc. Unfortunately,
+this, too, had it's drawbacks, for, without Twine's visual reference, I struggled to outline each opton in a way that made sense and could be read a glance. After a bit of trial-and-error,
+I settled for a hybrid method: I outlined the basis of each dialogue option in a word doc, then switched to Twine to further flesh out and detail each corresponding pathway. I truly found
+Twine's digital map to be integral to the construction of my piece, as it's overhead view of my piece has kept me from becoming overwhelmed.
+It's also brought to my attention my preference for visual outlines over solely textual ones, which I was not wholly aware of until this project. I believe this will enable me to formulate
+better plans in the future, ensuring less time is spent agonising over minute decisions.
 
 
