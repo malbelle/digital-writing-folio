@@ -1,8 +1,10 @@
 The following observations have been recorded in a word document over the course of the semester:
 
 WEEK 1
-I'll admit it now upfront: I don't care much for coding. No, scratch that: I'm rather terrified of it. All those symbols and numbers might
-as well be hierogylphics for all that I can discern them, and everytime I've been given leave to try in the past, the result has been a throbbing headache and
+I'll admit it now upfront: I don't care much for coding. No, scratch that: I'm rather terrified of it. To put it plainly, I've spent much of my life attempting to avoid anything that 
+would require even a modicum of coding knowledge. During digital technology classes in highschool, I'd spend class making the sprites look as unique as possible, or else drawing surrepitiously in the margins
+everytime my teacher's back was turned. Honestly, I've never had any interest in coding; all those symbols and numbers might as well be hierogylphics for all that I can discern them. 
+And everytime I've been given leave to try in the past, the result has been a throbbing headache and
 a twisting stomach. That same sensation plagued me this week as I sat down for my first class, dread sitting heavy in my stomach right alongside the two lukewarm
 weetbix I'd had for breakfast. This feeling only intensified when my tutor showed the class examples of other people's creations: timed poems, animated sprites,
 blinking text...it all seems so terribly beyond reach, and I can't quite shake the feeling that I'm in over my head. But I selected this class to gain useful industry
@@ -21,33 +23,63 @@ a traditionally written piece now. Needless to say, I'm not very fond of the mor
 the Gay Planet,' a choose-your-own-adventure game written from the second-person perspective. Witty, satiricial and relatively easy to follow, I was drawn to this
 piece by its snappy title, and the relevance it holds in my own life. Additionally, I found the idea of a choose-your-own-adventure format very appealing, and
 and I'm already beginning to think up ways I can utilise it to create my own narrative. This week, we also had a go at formulating our own poems using a round-robin
-of techniques, such as Daidaism and Lipograms. We were split into groups, and each group was able to experience two of the four offered techniques, which made
+of techniques, such as Daidaism and Lipograms. We were split into groups, and each group was able to experience two of the five offered techniques, which made
 for some truly bewildering results. My own group attempted the N+7 and Lipogram techniques, neither of which I enjoyed very much. I found each technique
 frustrating and overly elaborate, while the resulting poems were frustraingly nonsensical (if occasionally amusing.) To be completely honest, the entire
 thing felt like a big waste of time, and I resolved to avoid employing these techniques in the future, should the opportunity arise.
 
+WEEK 4
+In week 4, I had to give the first of two presentations. Naturally, I was dreading it. As a sufferer of rather severe social anxiety, I was convinced I'd
+make a complete fool of myself - despite writing extensively on each slide about my chosen piece. After sitting through my classmates' presentations, however, I quickly
+came to recognise this as a mistake. Rather than dot-points, I'd chosen to include large slabs of information on each slide of my presentation, and my lack
+of script left me standing before the board and trying to parse my notes in front of the class. Still, it could've gone worse, and at the very least I'm proud of the
+slides I turned in. It did seem, however, that many of my classmates were simply on a completely different level. It felt each of them had not only done extesive research
+into their pieces, but had managed to create exchanging presentations that held the class at rapt attention. I could only marvel at the breadth of knowledge my
+peers displayed, and their ambition for our final projects. Every single one of my classmates had produced quality presentations, and, even if I didn't care for every
+piece shown, it was fascinating to learn what had drawn my peers to their chosen works. For me, working on this task has solidifed my desire to create a choose-your-
+own-adventure game in Antrophy's witty voice. Unfortunately, I've yet to consider what I wish to do beyond this, as I find the prospect of creating my own work
+to be quite intimidating.
+
+WEEK 5
+This week, we were introduced to Twine and its corresponding functions. Unsurprisingly, I approached this program with trepidation, convinced I'd be
+unable to produce anything substantial. Our tutor used the last hour of class to demonstrate Twine's function to us, which I, admittedly, found difficult to follow.
+We were then instructed to create our own storylines and attempt to produce them, using Twine, over the course of the week. To my relief, I was quickly proven wrong regarding Twine's
+difficulty. Despite a few initial hiccups, I found Twine delightfully straightforward and relatively easy to navigate; it took only an hour before I was producing my own
+story, and I excitedly encouraged my younger sister to play through it. Though it was a small thing, I felt wonderfully accomplished,
+and slightly less like a technological moron. And as I worked, it was as though the uncertainty obscuring my final project dispersed before me: this is what I would use to make my choose-your-own-
+adventure piece. I'm certain, with a little bit more practice, I'll be able to utilise Twine to create something equally as entertaining as 'Gay Planet,'
+and though I've STILL yet to think of an idea, this project suddenly seems significantly less impossible.
+
+WEEK 6
+Week 6 saw the class learning to insert images into our Twine stories, alongside changing font types, background colours and image sizes. It took me quite a bit of trial
+and error (and a lot of help from the tutor), but eventually I managed to insert a stock image of a wedding aisle into my Twine story. This success bolstered
+my confidence, and also presented an entirely new set of possibilities: the story-telling capabilities of an image-based work. Furthermore, I've always enjoyed drawing,
+and my recent acquisition of an apple pen and the procreate app means I could incorporate my own art into the story. This, I reasoned, would allow me to create
+something unique without requiring great amounts of coding. After learning the basics of Twine, the class went on to download GitHub Desktop, an imperative
+step when inserting images into Twine. Unfortunately, this quickly stumped me. I had no idea of GitHub's function, and it took me almost the entire class before
+I truly understood the purpose of it in relation to my Twine story. But when it finally clicked, the relief was such that I left class that day with a spring in my
+step. Now that I have a basic outline for my final project, I simply need to come up with a story.
+
 WEEK 7
 This week I had to address what I've been attempting to ignore since the beginning of the semester: the task of conceptualising my own digital piece.
-From as young as grade three, it's been evident to me that I possess very lack for all things STEM; to say coding intimidates me would be a gross
-understatement. To put it plainly, I've spent much of my life attempting to avoid anything that would require even a modicum of coding knowledge. During
-digital technology classes in highschool, I'd spend class making the sprites look as unique as possible, or else otherwise draw surrepitiously in the margins
-everytime my teacher's back was turned. Honestly, I've never had any interest in coding, and although I've assured that little will be required of me in this area,
-I still find the notion of coding my own piece to be terribly daunting. I've already vetoed several intriguing narrative avenues out of the sheer certainty
-that I would be incapable of incorporating my ideas into a digital setting. The only thing I know for certain is that I wish to use Twine, as it is the program
-I am least intimidated by. What's more, I've even managed to change the font type and add a (grossly oversized) image into  previous Twine experiment, and so
-I'm tentatively hopeful that with the right idea, I can produce an idea both entertaining and realistic.
+I'd already vetoed several intriguing narrative avenues out of the sheer certainty that I would be incapable of incorporating my ideas into a digital setting.
+My aim for this piece is to produce something both entertaining and realistic, something I can reasonably expect to complete that won't induce me to
+tear my hair out at the roots. At least, finally, I’ve come up with an idea for my piece, which I'm titling: Customer Service Simulator. It will function much as 'Hunt for the Gay Planet' did,
+in a choose-your-own-adventure type format. I've drawn inspiration from dating sims such as 'Dream Daddy,' and will be using dialogue trees to guide players through interactions with four archetypical customers. 
+Like 'Gay Planet,' I ultmiately want to produce something socially relevant, drawing on today's cost of living crisis and the universal impodence of real-life customers to create a reltably
+frustrating day of work.
 
 WEEK 8
-I’ve come up with an idea for my piece, which I'm titling: Customer Service Simulator. It will function much as 'Hunt for the Gay Planet' did,
-in a choose-your-own-adventure type format. I've drawn inspiration from dating sims such as 'Dream Daddy,'
-and will be using dialogue trees to guide players through interactions with four archetypical customers. My intention is to create something
-both absurdly amusing and socially relevant, drawing on today's cost of living crisis and the universal impodence of real-life customers.
-I've already begun production on my piece, utilising the prototype as the basis of my code. Primarily, much of the process follows that of a 
-creative narrative, as each text box requires at least 3-4 lines of description and dialogue. I’ve been thoroughly enjoying this aspect of my project, 
+I gave my second presentation this week, and I fear it was markedly worse than last time. In attempting to provide myself a script, I forgot to
+remove information from my slide, and so, alongside being completely redundant, my script served only to distract me from 
+enchanging my audience. I spent the duration of it flustered and struggling to find my place, which I fear will seriously injure my grade.
+In better news, I've already begun production on my piece, utilising the prototype from my proposal as the basis of the final draft. Primarily, 
+much of the process follows that of a creative narrative, as each text box requires at least 3-4 lines of description and dialogue. I’ve been thoroughly enjoying this aspect of my project, 
 as character interactions have always been one of my favourite things to write - and in this way, I’ve managed to incorporate a level of comfort into 
-what is otherwise a daunting task. Thankfully, the coding itself is relatively sparse, with the only real challenge involving the inclusion of 
+what is otherwise a daunting task. I've also now drawn all required images, which was fun itself, and am eager to see how the final layout will appear
+when I combine my art with the format of a dialogue tree. However, though the coding is thankfully sparse, the only real challenge involves the inclusion of 
 my hand-drawn images. Despite copying the code exactly from my tutor’s notes, I can’t seem to get my drawings to appear; this is worrying, 
-as the artwork is an integral piece of the work. I will endeavour to try again when I get a chance.
+as the artwork is an integral piece of the project. I will endeavour to try again when I get a chance.
 
 WEEK 9
 I have successfully begun incorporating images into my work! After hastily emailing my teacher in a panic, I discovered I'd simply been launching Twine
