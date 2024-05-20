@@ -19,7 +19,7 @@ No class.
 WEEK 3
 This week, we prepared for our upcoming presentations on a chosen digital work. I'd taken the time last week to select my favourities from the archives given,
 and I've found I tend to favour the more simplisitic pieces. No surprises there, I suppose. I also prefer the works that have clear narrative intention, much like
-a traditionally written piece now. Needless to say, I'm not very fond of the more experimental, abstract pieces. As such, I've chosen Anna Antrophy's 'Hunt for
+a traditionally written piece would. Needless to say, I'm not very fond of the more experimental, abstract pieces. As such, I've chosen Anna Antrophy's 'Hunt for
 the Gay Planet,' a choose-your-own-adventure game written from the second-person perspective. Witty, satiricial and relatively easy to follow, I was drawn to this
 piece by its snappy title, and the relevance it holds in my own life. Additionally, I found the idea of a choose-your-own-adventure format very appealing, and
 and I'm already beginning to think up ways I can utilise it to create my own narrative. This week, we also had a go at formulating our own poems using a round-robin
@@ -44,7 +44,7 @@ WEEK 5
 This week, we were introduced to Twine and its corresponding functions. Unsurprisingly, I approached this program with trepidation, convinced I'd be
 unable to produce anything substantial. Our tutor used the last hour of class to demonstrate Twine's function to us, which I, admittedly, found difficult to follow.
 We were then instructed to create our own storylines and attempt to produce them, using Twine, over the course of the week. To my relief, I was quickly proven wrong regarding Twine's
-difficulty. Despite a few initial hiccups, I found Twine delightfully straightforward and relatively easy to navigate; it took only an hour before I was producing my own
+difficulty. Despite a few initial hiccups, I found Twine delightfully straightforward; it took only an hour before I was producing my own
 story, and I excitedly encouraged my younger sister to play through it. Though it was a small thing, I felt wonderfully accomplished,
 and slightly less like a technological moron. And as I worked, it was as though the uncertainty obscuring my final project dispersed before me: this is what I would use to make my choose-your-own-
 adventure piece. I'm certain, with a little bit more practice, I'll be able to utilise Twine to create something equally as entertaining as 'Gay Planet,'
@@ -65,8 +65,8 @@ This week I had to address what I've been attempting to ignore since the beginni
 I'd already vetoed several intriguing narrative avenues out of the sheer certainty that I would be incapable of incorporating my ideas into a digital setting.
 My aim for this piece is to produce something both entertaining and realistic, something I can reasonably expect to complete that won't induce me to
 tear my hair out at the roots. At least, finally, I’ve come up with an idea for my piece, which I'm titling: Customer Service Simulator. It will function much as 'Hunt for the Gay Planet' did,
-in a choose-your-own-adventure type format. I've drawn inspiration from dating sims such as 'Dream Daddy,' and will be using dialogue trees to guide players through interactions with four archetypical customers. 
-Like 'Gay Planet,' I ultmiately want to produce something socially relevant, drawing on today's cost of living crisis and the universal impodence of real-life customers to create a reltably
+in a choose-your-own-adventure type format. I've drawn inspiration from dating sims such as 'Dream Daddy' for its one-on-one conversations, and will be using dialogue trees to guide players through interactions with four archetypical customers. 
+Like 'Gay Planet,' I ultmiately want to produce something socially relevant, drawing on today's cost of living crisis and the universal audacity of real-life customers to create a reltably
 frustrating day of work.
 
 WEEK 8
@@ -76,7 +76,7 @@ enchanging my audience. I spent the duration of it flustered and struggling to f
 In better news, I've already begun production on my piece, utilising the prototype from my proposal as the basis of the final draft. Primarily, 
 much of the process follows that of a creative narrative, as each text box requires at least 3-4 lines of description and dialogue. I’ve been thoroughly enjoying this aspect of my project, 
 as character interactions have always been one of my favourite things to write - and in this way, I’ve managed to incorporate a level of comfort into 
-what is otherwise a daunting task. I've also now drawn all required images, which was fun itself, and am eager to see how the final layout will appear
+what is otherwise a daunting task. I've also now drawn all required images, which was fun in itself, and am eager to see how the final layout will appear
 when I combine my art with the format of a dialogue tree. However, though the coding is thankfully sparse, the only real challenge involves the inclusion of 
 my hand-drawn images. Despite copying the code exactly from my tutor’s notes, I can’t seem to get my drawings to appear; this is worrying, 
 as the artwork is an integral piece of the project. I will endeavour to try again when I get a chance.
@@ -95,12 +95,12 @@ In terms of progress, I've completed all interactions pertaining to the first cu
 I've avoided attmepting anything beyond the default.
 
 WEEK 10
-This week I worked on my second customer and third customers, constructing their dialogue trees and formulating each pathway. Initially, I struggled to complete
+This week I worked on my second and third customers, constructing their dialogue trees and formulating each pathway. Initially, I struggled to complete
 customer two's pathway - as, while I had a vague idea of where I wanted it to go, I hadn’t planned anything concrete. As such, I found myself unable to decide
-on the outcome of each dialogue option, and so my pice remained in limbo for most of this week. By the time I finished customer two, I was so exhausted
+on the outcome of each dialogue option, and so my piece remained in limbo for most of this week. By the time I finished customer two, I was so exhausted
 and unwilling to repeat the process that I realised a change of strategy was in order. It became quickly apparent to me that this approach would not allow for effective story-telling, 
 and would likely lessen the quality of the remaining interactions. As such, I decided to sketch out a script beforehand and lay out the roadmaps to each line of dialogue in a word doc. Unfortunately,
-this, too, had it's drawbacks, for, without Twine's visual reference, I struggled to outline each opton in a way that made sense and could be read a glance. After a bit of trial-and-error,
+this, too, had it's drawbacks, for, without Twine's visual reference, I struggled to outline each opton in a way that made sense and could be read at a glance. After a bit of trial-and-error,
 I settled for a hybrid method: I outlined the basis of each dialogue option in a word doc, then switched to Twine to further flesh out and detail each corresponding pathway. I truly found
 Twine's digital map to be integral to the construction of my piece, as it's overhead view of my piece has kept me from becoming overwhelmed.
 It's also brought to my attention my preference for visual outlines over solely textual ones, which I was not wholly aware of until this project. I believe this will enable me to formulate
