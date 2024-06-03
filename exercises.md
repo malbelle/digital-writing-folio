@@ -32,8 +32,8 @@ I like to have an outline, like a chapter or scene summary. I tend to keep it br
 You could plan the documents connected to the initial one, and you could list the differing options and subsequent choices.</p>
 <p><b>Taroko Gorge</p>
 <p>What aspects of the remix are the same?</b>
-The patterns of the work (short choppy sentences, small paragraphs, frequent cut offs mid-sentence) remain the same, even when the words themselves are different. Despite its copious remixes, the body and form of the poem continues to emulate its namesake, bringing to mind winding trails and rocky pathways.
+The patterns of the work (short choppy sentences, small paragraphs, frequent cut-offs mid-sentence) remain the same, even when the words themselves are different. Despite its copious remixes, the body and form of the poem continues to emulate its namesake, bringing to mind winding trails and rocky pathways.
 <p><b>What aspects of the remix are different?</b>
-The words themselves are replaced with synonyms or nouns that possess similiar connotations, or else shuffled around in different orders to produce unqiue sentences. As such, the terrain of the work differs in significant amounts, but its base structure, as previously mentioned, is ultimately retained.
+The words themselves are replaced with synonyms or nouns that possess similar connotations, or else shuffled around in different orders to produce unique sentences. As such, the terrain of the work differs in significant amounts, but its base structure, as previously mentioned, is ultimately retained.
 <p><b>Is the remix successful (why or why not)?</b>
 I suppose this depends on the poem's intent. As a remix, I find the changes to be near-indistinguishable in places, rendering them almost redundant. Alternatively, the changes both alter the gorge's landscape while maintaining its formulative elements, which is an achievement in and of itself. Ultimately, I believe that if ensuring the poem's integrity was the goal, the remix was indeed successful.
