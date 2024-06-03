@@ -30,10 +30,10 @@ Hypertext fiction does not encourage the reader to make decisions or 'play,' unl
 I like to have an outline, like a chapter or scene summary. I tend to keep it brief, however, as I find that over-planning my work lessens my desire to actually produce it. I value a bit of spontaenity in my work.</p>
 <p><b>How could you plan hypertext fiction?</b>
 You could plan the documents connected to the initial one, and you could list the differing options and subsequent choices.</p>
-<p><b>Taroko Gorge
-What aspects of the remix are the same?</b>
+<p><b>Taroko Gorge</p>
+<p>What aspects of the remix are the same?</b></p>
 The patterns of the work (short choppy sentences, small paragraphs, frequent cut offs mid-sentence) remain the same, even when the words themselves are different. Despite its copious remixes, the body and form of the poem continues to emulate its namesake, bringing to mind winding trails and rocky pathways.
-<b>What aspects of the remix are different?</b>
+<p><b>What aspects of the remix are different?</b></p>
 The words themselves are replaced with synonyms or nouns that possess similiar connotations, or else shuffled around in different orders to produce unqiue sentences. As such, the terrain of the work differs in significant amounts, but its base structure, as previously mentioned, is ultimately retained.
-</b>Is the remix successful (why or why not)?</b>
+<p><b>Is the remix successful (why or why not)?</b></p>
 I suppose this depends on the poem's intent. As a remix, I find the changes to be near-indistinguishable in places, rendering them almost redundant. Alternatively, the changes both alter the gorge's landscape while maintaining its formulative elements, which is an achievement in and of itself. Ultimately, I believe that if ensuring the poem's integrity was the goal, the remix was indeed successful.
